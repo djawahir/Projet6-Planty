@@ -12,3 +12,50 @@
  /* == Add your own styles below this line ==
 --------------------------------------------*/
 
+
+  
+#footer-bottom a, #footer-bottom #footer-bottom-menu a {
+	font-size: 16px;
+}
+
+.text-wrap{
+	font-size: 16px;
+	margin-left:40px;
+	font-family: 'Syne';
+}
+#menu-item-28 {
+	background-color:#DC9F96;
+	font-weight:bold;
+	margin-right:20px;
+	margin-left:20px;
+}
+
+#menu-item-28  span  {
+	color:white ;
+	font-family: 'Syne';
+}
+
+
+#menu-item-28 a:hover {
+	background-color: #C02E44;
+}
+
+#footer-inner li a {
+
+	font-family: 'Syne';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	position: absolute;
+	width: 119px;
+	height: 19px;
+	left: 661px;
+	top: 10px;
+}
+
+
+
