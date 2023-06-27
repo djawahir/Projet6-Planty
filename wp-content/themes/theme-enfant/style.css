@@ -60,6 +60,7 @@
 	background-color: #fff;
 	border-radius: 5px;
 	height: 80px;
+	width: 450px;
 	
 }
 
@@ -87,6 +88,7 @@ textarea {
 
 .wpcf7 .boutton {
 	text-align: center;
+	margin-left: 80px;
 }
 
 .wpcf7 #bouton-commander:hover {
@@ -117,6 +119,7 @@ form p {
 	justify-content: space-around;
 	justify-content: center;
 	gap: 40px;
+	margin-right: 80px;
 
 }
 
@@ -124,4 +127,29 @@ form p {
 	height: 20px;
 	width: 220px;
 }
+
+.wpcf7 h2 {
+	color: #fff;
+	margin-left: 200px;
+	font-family: syne;
+	font-size: 30px;
+}
+
+
+.bloc {
+	display:flex;
+	justify-content:space-around;
+	justify-content: center;
+	align-items:center;
+	flex-direction: row;
+	gap:80px;
+	
+}
+
+.bloc1 {
+	border-right: 1px solid #fff;
+	padding-right: 60px;
+}
+
+
 
