@@ -240,6 +240,67 @@ img {
 /* personnalisation de la section calcul pages commande*/
 
 
+.calc {
+    width: 80px;
+    height: 50px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+	margin-top: 5px;
+   
+}
+
+.item1 {
+    background-color:#fff;
+    width: 60px;
+    height: 60px;
+    border-radius:  10px 0 0 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+
+}
+
+.item2 {
+    background-color: #E0B9B4;
+    width: 30px;
+    height: 30px;
+    border-bottom: 1px solid #fff;
+    border-top-right-radius: 10px;
+    text-align: center; 
+}
+
+.item3 {
+    background-color:#E0B9B4;
+    width: 30px;
+    height: 30px;
+    border-radius: 0 0 10px 0;
+    text-align: center;
+}
+
+
+.item-interm {
+    display: flex;
+    flex-direction: column;
+}
+
+.rangement {
+    display: flex;
+    gap: 10px;
+}
+
+.page-commande-ok {
+    width: 120px;
+    height: 60px;
+    background-color: #E0B9B4 !important;
+    color: #fff;
+    border-radius: 10px; 
+}
+
+.page-commande-ok:hover {
+	background-color: #C02E44 !important;
+}
 
 
 
